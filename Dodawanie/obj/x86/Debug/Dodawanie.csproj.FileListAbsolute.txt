@@ -1,0 +1,24 @@
+C:\Users\TEMP.VLO30-15.022\AppData\Local\Temporary Projects\Dodawanie\bin\Debug\Dodawanie.exe
+C:\Users\TEMP.VLO30-15.022\AppData\Local\Temporary Projects\Dodawanie\bin\Debug\Dodawanie.pdb
+C:\Users\TEMP.VLO30-15.022\AppData\Local\Temporary Projects\Dodawanie\obj\x86\Debug\Dodawanie.Form1.resources
+C:\Users\TEMP.VLO30-15.022\AppData\Local\Temporary Projects\Dodawanie\obj\x86\Debug\Dodawanie.Properties.Resources.resources
+C:\Users\TEMP.VLO30-15.022\AppData\Local\Temporary Projects\Dodawanie\obj\x86\Debug\Dodawanie.csproj.GenerateResource.Cache
+C:\Users\TEMP.VLO30-15.022\AppData\Local\Temporary Projects\Dodawanie\obj\x86\Debug\Dodawanie.exe
+C:\Users\TEMP.VLO30-15.022\AppData\Local\Temporary Projects\Dodawanie\obj\x86\Debug\Dodawanie.pdb
+C:\Users\TEMP.VLO30-15.022\documents\visual studio 2010\Projects\Dodawanie\Dodawanie\obj\x86\Debug\Dodawanie.exe
+C:\Users\TEMP.VLO30-15.022\documents\visual studio 2010\Projects\Dodawanie\Dodawanie\obj\x86\Debug\Dodawanie.pdb
+C:\Users\TEMP.VLO30-15.022\documents\visual studio 2010\Projects\Dodawanie\Dodawanie\bin\Debug\Dodawanie.exe
+C:\Users\TEMP.VLO30-15.022\documents\visual studio 2010\Projects\Dodawanie\Dodawanie\bin\Debug\Dodawanie.pdb
+C:\Users\TEMP.VLO30-15.022\documents\visual studio 2010\Projects\Dodawanie\Dodawanie\obj\x86\Debug\Dodawanie.Form1.resources
+C:\Users\TEMP.VLO30-15.022\documents\visual studio 2010\Projects\Dodawanie\Dodawanie\obj\x86\Debug\Dodawanie.Properties.Resources.resources
+C:\Users\TEMP.VLO30-15.022\documents\visual studio 2010\Projects\Dodawanie\Dodawanie\obj\x86\Debug\Dodawanie.csproj.GenerateResource.Cache
+C:\Users\Cezary\Documents\Visual Studio 2017\Projects\Dodawanie\Dodawanie\Dodawanie\bin\Debug\Dodawanie.exe
+C:\Users\Cezary\Documents\Visual Studio 2017\Projects\Dodawanie\Dodawanie\Dodawanie\bin\Debug\Dodawanie.pdb
+C:\Users\Cezary\Documents\Visual Studio 2017\Projects\Dodawanie\Dodawanie\Dodawanie\obj\x86\Debug\Dodawanie.csprojAssemblyReference.cache
+C:\Users\Cezary\Documents\Visual Studio 2017\Projects\Dodawanie\Dodawanie\Dodawanie\obj\x86\Debug\Dodawanie.Form1.resources
+C:\Users\Cezary\Documents\Visual Studio 2017\Projects\Dodawanie\Dodawanie\Dodawanie\obj\x86\Debug\Dodawanie.Properties.Resources.resources
+C:\Users\Cezary\Documents\Visual Studio 2017\Projects\Dodawanie\Dodawanie\Dodawanie\obj\x86\Debug\Dodawanie.csproj.GenerateResource.cache
+C:\Users\Cezary\Documents\Visual Studio 2017\Projects\Dodawanie\Dodawanie\Dodawanie\obj\x86\Debug\Dodawanie.csproj.CoreCompileInputs.cache
+C:\Users\Cezary\Documents\Visual Studio 2017\Projects\Dodawanie\Dodawanie\Dodawanie\obj\x86\Debug\Dodawanie.exe
+C:\Users\Cezary\Documents\Visual Studio 2017\Projects\Dodawanie\Dodawanie\Dodawanie\obj\x86\Debug\Dodawanie.pdb
+C:\Users\Cezary\Documents\Visual Studio 2017\Projects\Dodawanie\Dodawanie\Dodawanie\obj\x86\Debug\Dodawanie.Form2.resources
